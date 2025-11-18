@@ -1,5 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        int amount = 23756;
+        int miles = amount / 20;
+        System.out.println(miles);
+
     }
 }
+
+
